@@ -1,19 +1,15 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f9;
+    background-color: #141414;
+    color: #ffffff;
     padding: 50px;
 }
 
 h1 {
-    color: #24292e; /* Cor padrão do GitHub */
+    color: #ffffff;
 }
 
-button {
-    padding: 10px 20px;
-    background-color: #2ea44f;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+p {
+    color: #ffffff;
 }
