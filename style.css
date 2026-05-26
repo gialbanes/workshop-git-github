@@ -1,15 +1,31 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Grande', sans-serif;
     background-color: #141414;
     color: #ffffff;
     padding: 50px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
 }
 
 h1 {
-    color: #ffffff;
+    color: #DCFF50;
+    font-size: 2.5em;
+    margin-bottom: 15px;
 }
 
-p {
+p,
+.subtitle {
     color: #ffffff;
+    font-size: 1.1em;
 }
